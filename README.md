@@ -1,7 +1,7 @@
 Operating System Simulation with Paging 
-=============================================
+---------------------------------------------------------
 
-This was a school project for an operating systems class.
+This was a school project for an Operating Systems class.
 
 ### Notes ###
 
